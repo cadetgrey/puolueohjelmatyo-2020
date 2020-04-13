@@ -1,5 +1,4 @@
-# Forkattu Suomen piraattipuolueen dokumenttireposta ohjelmatyöskentelyn alustaksi
-
+Forkattu Suomen piraattipuolueen dokumenttireposta ohjelmatyöskentelyn alustaksi
 
 # Piraattipuolueen dokumenttikirjasto
 
